@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Example
 
-![Dropdown example](https://github.com/shafaqat-ali-cms365/react-dropdown-typescript/blob/master/public/electron.png 'Dropdown example for electron')
+![Dropdown example](../public/electron.png 'Dropdown example for electron')
 
 ## Available Scripts
 
