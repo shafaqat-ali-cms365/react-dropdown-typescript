@@ -8,6 +8,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `build-electron`
+
+Builds the app for electron.<br />
+
+### `start-electron`
+
+Runs the app in the electron chromium browser.<br />
+
 ### `npm start`
 
 Runs the app in the development mode.<br />
